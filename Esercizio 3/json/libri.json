@@ -1,0 +1,34 @@
+{
+	"libri": [{
+			"titolo": "1",
+			"autore": "A",
+			"casa-editrice": "0",
+			"anno": "2000",
+			"disponibile": "true"
+		},
+
+		{
+			"titolo": "2",
+			"autore": "B",
+			"casa-editrice": "00",
+			"anno": "2002",
+			"disponibile": "true"
+		},
+
+		{
+			"titolo": "3",
+			"autore": "C",
+			"casa-editrice": "00",
+			"anno": "2007",
+			"disponibile": "false"
+		},
+
+		{
+			"titolo": "4",
+			"autore": "A",
+			"casa-editrice": "0",
+			"anno": "2009",
+			"disponibile": "true"
+		}
+	]
+}

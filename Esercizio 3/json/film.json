@@ -1,0 +1,34 @@
+{
+	"film": [{
+			"titolo": "Aldo 1",
+			"regista": "Aldo",
+			"cast": ["Aldo", "Baldo", "Caldo", "Daldo", "Ealdo"],
+			"anno": "1998",
+			"disponibile": "true"
+		},
+
+		{
+			"titolo": "Aldo 2",
+			"regista": "Baldo",
+			"cast": ["Zldo", "Baldo", "Caldo", "Galdo", "Faldo"],
+			"anno": "2000",
+			"disponibile": "true"
+		},
+
+		{
+			"titolo": "Aldo 3",
+			"regista": "Caldo",
+			"cast": ["Jaldo", "Saldo", "Raldo", "Daldo", "Paldo"],
+			"anno": "2003",
+			"disponibile": "false"
+		},
+
+		{
+			"titolo": "Aldo 4",
+			"regista": "Daldo",
+			"cast": ["Aldo", "Raldo", "Kaldo", "Laldo", "Valdo"],
+			"anno": "2005",
+			"disponibile": "true"
+		}
+	]
+}
